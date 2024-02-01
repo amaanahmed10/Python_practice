@@ -1,1 +1,1 @@
-print("Hello! I am writing from Pycharm IDE and hope this program is updated in Github")
+print("Hello! I am writing from Pycharm IDE and hopefully this program is updated in Github")
